@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Talk Too Much",
+  "base_artist": "COIN",
+  "createdAt": "2026-02-13T08:43:53.201087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Talk Too Much",
+      "artist": "Run-DMC",
+      "has_synced": true,
+      "path": "select/01_You_Talk_Too_Much_Run-DMC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Talk Too Much",
+      "artist": "Canned Heat & John Lee Hooker",
+      "has_synced": false,
+      "path": "select/02_You_Talk_Too_Much_Canned_Heat_&_John_Lee_Hooker.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Talk Too Much",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/03_You_Talk_Too_Much_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talk Too Much",
+      "artist": "Skunk Anansie",
+      "has_synced": true,
+      "path": "select/04_Talk_Too_Much_Skunk_Anansie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Talk Too Much",
+      "artist": "Run DMC",
+      "has_synced": true,
+      "path": "select/05_You_Talk_Too_Much_Run_DMC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Talk Too Much",
+      "artist": "Run‐D.M.C.",
+      "has_synced": true,
+      "path": "select/06_You_Talk_Too_Much_Run‐D.M.C..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Talk Too Much",
+      "artist": "Joe Jones",
+      "has_synced": true,
+      "path": "select/07_You_Talk_Too_Much_Joe_Jones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Talk Too Much",
+      "artist": "Run-D.M.C.",
+      "has_synced": true,
+      "path": "select/08_You_Talk_Too_Much_Run-D.M.C..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Talk Too Much",
+      "artist": "Irene Cara",
+      "has_synced": false,
+      "path": "select/09_Talk_Too_Much_Irene_Cara.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Talk Too Much",
+      "artist": "George Thorogood & The Destroyers",
+      "has_synced": true,
+      "path": "select/10_You_Talk_Too_Much_George_Thorogood_&_The_Destroyers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If You Talk Too Much",
+      "artist": "People In Planes",
+      "has_synced": false,
+      "path": "select/11_If_You_Talk_Too_Much_People_In_Planes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Talk Too Much",
+      "artist": "COIN",
+      "has_synced": true,
+      "path": "select/12_Talk_Too_Much_COIN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Talk Too Much",
+      "artist": "COIN",
+      "has_synced": false,
+      "path": "select/13_Talk_Too_Much_COIN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Talk Too Much",
+      "artist": "COIN",
+      "has_synced": false,
+      "path": "select/pl_01_Talk_Too_Much_COIN.txt"
+    }
+  ]
+}
